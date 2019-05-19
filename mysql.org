@@ -1,0 +1,13 @@
+* mysql安装 8.0 windows 
+  1) cd $MYSQL_PATH/bin
+  2) mysqld --initialize --console
+  3) mysqld --install 
+  4) net start mysql
+  5) mysql -uroot -p   
+
+
+
+
+
+
+     
